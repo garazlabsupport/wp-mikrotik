@@ -1,3 +1,5 @@
+# WP Mikrotik Settings
+
 Product URL: [Shop now](https://garazlab.com/product/wp-mikrotik-iot-plugin-for-realtime-network-management/)
 
 1. Please go to Settings > General.
